@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julien, from Nantes, although I now live in Bordeaux, FRANCE. I'm 44 (in 2021), married, catholic and a member of Mensa.
 - 👀 I’m interested in many things : AI (strong and DL : I authored the chess engine Prédateur), web development (full stack), desktop development (mainly in c#), FPGA programming, and much more. I read a lot (science, philosophy, theology, ...) and enjoys hiking.
-- 🌱 I’m currently learning front-end web development and FPGA programming.)
+- 🌱 I’m currently learning front-end web development and FPGA programming.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 You can reach me by email at jul_marcel at Microsoft's hotmail dot com webmail.
